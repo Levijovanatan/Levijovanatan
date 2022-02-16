@@ -1,6 +1,6 @@
 
 <p align="center">
-<img height="500px" width="900px"  src="./GIT.gif"/>
+<img width="900px"  src="./GIT.gif"/>
 </p>
 <table align= "center">
   <tr>
