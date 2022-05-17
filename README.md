@@ -7,29 +7,7 @@
       </a>
       <br>Front End
     </td>
-    <td align="center"  width="180" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./cyber-security.svg" width="48" height="48" alt="Cyber Security" />
-      </a>
-      <br>Cyber Security
-    </td>
-    <td align="center"  width="180" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./cloud-computing.svg" width="70" height="48" alt="Cloud" />
-      </a>
-      <br>Cloud Computing
-    </td>
-    <td align="center"  width="180" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./digital-forensics.svg" width="48" height="48" alt="ds" />
-      </a>
-      <br>Digital Forensic
-    </td>
-    
-  </tr>
-  
-</table>
-</br>
+    <td align="center"  width="180" h
 
 <p align="center">
     <img alt="Ethereum" src="https://avatars.githubusercontent.com/u/76637974?s=200&v=4" width="200" />
