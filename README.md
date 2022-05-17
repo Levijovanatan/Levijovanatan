@@ -1,34 +1,4 @@
 
-<table align= "center">
-  <tr>
-     <td align="center" width="180" height="112.43">
-      <a href="#macropower-tech" >
- 
-      </a>
-      <br>Front End
-    </td>
-    <td align="center"  width="180" h
-
-<p align="center">
-    <img alt="Ethereum" src="https://avatars.githubusercontent.com/u/76637974?s=200&v=4" width="200" />
-</p>
-
-<!-- <table align= "center">
-<td align="center"  width="240" height="112.43">
-      <a href="#macropower-tech">
-        <img height="250px" width="200px" src="./casino.gif"/>
-      </a>
-       <br>Casino roulette Project   
-  
-</td>
-  
-</table>
--->
-
-</br>
-
-
-
 <p align="center">
 <a href="https://github.com/Levijovanatan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Levijovanatan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
