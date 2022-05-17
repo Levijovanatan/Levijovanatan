@@ -1,7 +1,4 @@
 
-<p align="center">
-<img width="900px"  src="./GIT.gif"/>
-</p>
 <table align= "center">
   <tr>
      <td align="center" width="180" height="112.43">
