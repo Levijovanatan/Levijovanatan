@@ -6,7 +6,7 @@
   <tr>
      <td align="center" width="180" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./frontend.png" width="48" height="48" alt="Front End" />
+        <img src="frontend.png" width="48" height="48" alt="Front End" />
       </a>
       <br>Front End
     </td>
