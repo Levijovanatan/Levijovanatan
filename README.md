@@ -1,5 +1,5 @@
 <p align="center">
-<img width="900px"  src="./ping.jpeg"/>
+<img width="720px"  src="./ping.jpeg"/>
 </p>
 
 <table align= "center">
